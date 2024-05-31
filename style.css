@@ -665,7 +665,7 @@ body {
     left: 20px;
   }
   100% {
-    left: calc(15%);
+    left: 300px;
   }
 }
 
